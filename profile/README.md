@@ -59,7 +59,7 @@ We are committed to growing our skills and creating meaningful solutions before 
 If you're a JEC student and want to be a part of Jec-Forge, follow these simple steps to get started!
 
 1. **Join the Organization**: 
-   - Join the GitHub Org by raising an issue : [Invite Link]() (you will receive an Email invitation)
+   - Join the GitHub Org by raising an issue : [Invite Link](https://github.com/Jec-Forge/support/issues/new?assignees=&labels=invite+me+to+the+community&projects=&template=invitation.yml&title=Please+invite+me+to+the+Jec-Forge+GitHub+Community+Organization) (you will receive an Email invitation)
         
 2. **Explore the Projects**:
    - Browse through our repositories to find open-source projects that interest you.
