@@ -15,7 +15,7 @@
 <a href="" target="_blank">
   <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
 </a>
-<a href="https://linkedin.com/in/jec-forge" target="_blank">
+<a href="https://linkedin.com/company/jec-forge" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="https://github.com/jec-forge" target="_blank">
