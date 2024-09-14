@@ -6,25 +6,25 @@
 <div align="center">
 <p>
 
-<a href="mailto:your-email@gmail.com" target="_blank">
+<a href="mailto:jecforge@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 <a href="https://discord.com/invite/your-server-link" target="_blank">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
-<a href="https://your-website-link.com" target="_blank">
+<a href="" target="_blank">
   <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
 </a>
-<a href="https://linkedin.com/in/your-profile" target="_blank">
+<a href="https://linkedin.com/in/jec-forge" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="https://github.com/your-github-username" target="_blank">
+<a href="https://github.com/jec-forge" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
-<a href="https://instagram.com/your-instagram-username" target="_blank">
+<a href="https://instagram.com/jec_forge" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
-<a href="https://youtube.com/c/your-youtube-channel" target="_blank">
+<a href="https://youtube.com/c/jec-forge" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>
 
@@ -105,5 +105,5 @@ Do you have an innovative project idea or want to kick-start a new project under
 ### 📫 Contact Us:
 - [Visit our Website](#) (Coming Soon)
 - [Join our Discord](#) for community discussions
-- Reach out to us via [Email](mailto:contact@jecforge.org)
+- Reach out to us via [Email](mailto:jecforge@gmail.com/)
 
