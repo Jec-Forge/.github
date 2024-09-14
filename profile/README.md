@@ -6,7 +6,7 @@
 <div align="center">
 <p>
 
-<a href="mailto:jecforge@gmail.com" target="_blank">
+<a href="mailto:jecforge.org@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 <a href="https://discord.com/invite/your-server-link" target="_blank">
@@ -24,7 +24,7 @@
 <a href="https://instagram.com/jec_forge" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
-<a href="https://youtube.com/c/jec-forge" target="_blank">
+<a href="https://youtube.com/c/jec_forge" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>
 
@@ -105,5 +105,5 @@ Do you have an innovative project idea or want to kick-start a new project under
 ### 📫 Contact Us:
 - [Visit our Website](#) (Coming Soon)
 - [Join our Discord](#) for community discussions
-- Reach out to us via [Email](mailto:jecforge@gmail.com/)
+- Reach out to us via [Email](mailto:jecforge.org@gmail.com/)
 
