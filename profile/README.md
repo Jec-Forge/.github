@@ -9,7 +9,7 @@
 <a href="mailto:jecforge.org@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
-<a href="https://discord.com/invite/your-server-link" target="_blank">
+<a href="https://discord.gg/wTNPWnf4" target="_blank">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
 <a href="" target="_blank">
