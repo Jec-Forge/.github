@@ -104,6 +104,6 @@ Do you have an innovative project idea or want to kick-start a new project under
 
 ### 📫 Contact Us:
 - [Visit our Website](#) (Coming Soon)
-- [Join our Discord](#) for community discussions
+- [Join our Discord](https://discord.gg/gv62bmXuGB) for community discussions
 - Reach out to us via [Email](mailto:jecforge.org@gmail.com/)
 
